@@ -1,6 +1,6 @@
-*{
+{
     margin: 0;
-    padding: 0;
+    padding: 0:
 }
 
 .cabecalho {
@@ -18,7 +18,6 @@
 
 .cabecalho-lista-item{
     display: inline-block;
-    margin: 0 16px;
+    margin: 0% 16px;
     font-size: 24px;
 }
- 
